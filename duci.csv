@@ -1,0 +1,14 @@
+TAU1,TAU2,TAU3,TAU4,P1,P2,P3
+Min.   : 0.5,Min.   : 0.51,Min.   : 0.5,Min.   : 0.5,Min.   :1.7,Min.   :-2.00,Min.   :-2.00
+1st Qu.: 2.9,1st Qu.: 2.89,1st Qu.: 2.9,1st Qu.: 2.9,1st Qu.:3.2,1st Qu.:-1.62,1st Qu.:-1.62
+Median : 5.2,Median : 5.24,Median : 5.2,Median : 5.3,Median :3.8,Median :-1.25,Median :-1.25
+Mean   : 5.2,Mean   : 5.27,Mean   : 5.2,Mean   : 5.3,Mean   :3.8,Mean   :-1.25,Mean   :-1.25
+3rd Qu.: 7.6,3rd Qu.: 7.68,3rd Qu.: 7.6,3rd Qu.: 7.6,3rd Qu.:4.3,3rd Qu.:-0.88,3rd Qu.:-0.88
+Max.   :10.0,Max.   :10.00,Max.   :10.0,Max.   :10.0,Max.   :5.8,Max.   :-0.50,Max.   :-0.50
+P4,G1,G2,G3,G4,STAB,STABF
+Min.   :-2.00,Min.   :0.05,Min.   :0.05,Min.   :0.05,Min.   :0.05,Min.   :-0.070,Min.   :0.00
+1st Qu.:-1.63,1st Qu.:0.29,1st Qu.:0.28,1st Qu.:0.28,1st Qu.:0.29,1st Qu.:-0.020,1st Qu.:0.00
+Median :-1.24,Median :0.52,Median :0.52,Median :0.53,Median :0.53,Median : 0.020,Median :0.00
+Mean   :-1.25,Mean   :0.52,Mean   :0.52,Mean   :0.53,Mean   :0.53,Mean   : 0.016,Mean   :0.36
+3rd Qu.:-0.87,3rd Qu.:0.76,3rd Qu.:0.76,3rd Qu.:0.77,3rd Qu.:0.76,3rd Qu.: 0.040,3rd Qu.:1.00
+Max.   :-0.50,Max.   :1.00,Max.   :1.00,Max.   :1.00,Max.   :1.00,Max.   : 0.110,Max.   :1.00
